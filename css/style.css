@@ -1,0 +1,9 @@
+/*====index.html=====*/
+.ques{
+	padding: 30px 10px;
+	cursor: pointer;
+}
+.answ{
+	display: none;
+	padding: 30px 10px;
+}
